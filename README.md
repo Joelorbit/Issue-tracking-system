@@ -25,8 +25,10 @@ Frontend is **React + Tailwind**, backend is **Express + PostgreSQL (Supabase)**
 - `backend-env.example` – example backend `.env` file
 
 You can keep this layout or move `backend/` to the project root; just update paths and `README` accordingly.
-
 ---
+<img width="898" height="840" alt="Screenshot 2026-03-01 021225" src="https://github.com/user-attachments/assets/1f98e25d-17cb-49e7-b61c-d03042f6bac1" />
+
+<img width="1897" height="901" alt="image" src="https://github.com/user-attachments/assets/db17c1fd-2861-4ca6-8578-30a2e740f341" />
 
 ### 2. Database (Supabase PostgreSQL)
 
