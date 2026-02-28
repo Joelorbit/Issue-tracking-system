@@ -1,0 +1,17 @@
+PORT=4000
+NODE_ENV=development
+
+# Supabase Postgres connection string (standard Postgres URL)
+DATABASE_URL=postgres://postgres:password@db-host:5432/postgres
+
+# Supabase Storage
+SUPABASE_URL=https://YOUR-PROJECT.supabase.co
+SUPABASE_SERVICE_ROLE_KEY=your-service-role-key
+SUPABASE_STORAGE_BUCKET=complaint-files
+
+# JWT
+JWT_SECRET=supersecretjwtkey
+JWT_EXPIRES_IN=7d
+
+# Groq
+GROQ_API_KEY=gsk-...
